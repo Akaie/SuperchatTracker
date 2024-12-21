@@ -1,0 +1,54 @@
+﻿<Window x:Class="YoutubeSuperChatApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:YoutubeSuperChatApp"
+        xmlns:s="clr-namespace:System.Xaml;assembly=System.Xaml"
+        mc:Ignorable="d"
+        Title="YouTube SuperChat Tracker" Height="420" Width="800" MinWidth="800" MaxWidth="800" MinHeight="460" MaxHeight="460" ScrollViewer.VerticalScrollBarVisibility="Disabled" ResizeMode="NoResize">
+    <Grid Height="404">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="65"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu x:Name="menu" Grid.Row="0" Grid.Column="0" VerticalAlignment="Top" Height="20
+              ">
+            <MenuItem Header="Options" Click="Options_Clicked" FontSize="14"/>
+            <MenuItem Header="View Resolved" Click="viewResolved_Clicked" FontSize="14"/>
+            <MenuItem Header="Exit" Click="Exit_Clicked" FontSize="14"/>
+        </Menu>
+        <ListView x:Name="recordList" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Height="300" Margin="8,0,8,0" FontSize="14" ItemsSource="{Binding Path=ListItems}">
+            <ListView.ItemTemplate>
+                <DataTemplate DataType="local:ListViewItem">
+                    <StackPanel>
+                        <WrapPanel>
+                            <TextBlock Text="{Binding Path=Name}" Foreground="{Binding Path=Clr}" Margin="10 0 10 0"/>
+                            <TextBlock Text="{Binding Path=Amount}" Foreground="{Binding Path=Clr}" Margin="10 0 10 0"/>
+                            <TextBlock Text="{Binding Path=Date}" Foreground="{Binding Path=Clr}" Margin="10 0 10 0"/>
+                        </WrapPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Grid Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Height="60">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button x:Name="StartBtn" Content="Start Polling" Width="250" Height="25" Grid.Row="0" Grid.Column="0" Click="StartBtn_Click" FontSize="14"/>
+            <Button x:Name="StopBtn" Content="Stop Polling" Width="250" Height="25" Grid.Column="0" Grid.Row="1" Click="StopBtn_Click" FontSize="14"/>
+            <Button x:Name="RemoveBtn" Content="Resolve" Width="250" Height="25" Grid.Row="0" Grid.Column="1" FontSize="14" Click="RemoveBtn_Click"/>
+            <Button x:Name="AllBtn" Content="Resolve All" Width="250" Height="25" Grid.Row="1" Grid.Column="1" FontSize="14" Click="AllBtn_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,70 @@
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.exe
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.deps.json
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.runtimeconfig.json
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.pdb
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Xceed.Wpf.AvalonDock.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Xceed.Wpf.Toolkit.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Google.Apis.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Google.Apis.Auth.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Google.Apis.Core.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Google.Apis.YouTube.v3.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\GoogleCurrencyConverter.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Microsoft.Data.Sqlite.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Microsoft.Xaml.Behaviors.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Newtonsoft.Json.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\SQLitePCLRaw.core.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\System.Management.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.Diagnostics.Eventing.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.Fonts.Fluent.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.Foundation.Logging.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.Foundation.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.UI.Composition.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.UI.Dispatching.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.UI.FluentTheme.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.UI.FluentTheme.v1.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.UI.FluentTheme.v2.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.UI.Toolkit.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.UI.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.Xaml.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\Uno.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\bin\Release\net8.0-windows7.0\win-x86\e_sqlite3.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.csproj.AssemblyReference.cache
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\MainWindow.g.cs
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\Options.g.cs
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\Resolved.g.cs
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\App.g.cs
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker_MarkupCompile.cache
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker_MarkupCompile.lref
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\MainWindow.baml
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\Options.baml
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\Resolved.baml
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.g.resources
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.AssemblyInfoInputs.cache
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.AssemblyInfo.cs
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube .BE56AD5C.Up2Date
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\refint\YouTube SuperChat Tracker.dll
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.pdb
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\YouTube SuperChat Tracker.genruntimeconfig.cache
+C:\Users\Amanda Frazier\source\repos\YoutubeSuperChatApp\YoutubeSuperChatApp\obj\Release\net8.0-windows7.0\win-x86\ref\YouTube SuperChat Tracker.dll
